@@ -96,8 +96,6 @@ Gesture Recognition
 - Live video stream analysis
 - Better physical device and integration
 
-[GitHub](https://github.com/rikenshah/PackHacks2019)
-
 ## Team
 
 - [Dharmang Bhavsar](https://github.com/dharmangbhavsar)  
