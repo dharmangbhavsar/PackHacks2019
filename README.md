@@ -99,4 +99,11 @@ Gesture Recognition
 
 [GitHub](https://github.com/rikenshah/PackHacks2019)
 
+## Team
+
+- [Dharmang Bhavsar](https://github.com/dharmangbhavsar)  
+- [Dax Amin](https://github.com/daxamin)  
+- [Riken Shah](https://github.com/rikenshah)  
+- [Vismay Golwala](https://github.com/vismay-golwala)  
+
 
