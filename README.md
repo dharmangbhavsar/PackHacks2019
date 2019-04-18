@@ -49,10 +49,8 @@ Text:
 
 ```
 Description: white board with black text
-Text: NOTICE NO EATING OR DRINKING IN THIS AREA
-----------------------
-Description:  
-Text: 
+Emotion: 
+Text: NOTICE NO EATING OR DRINKING IN THIS AREA 
 ----------------------
 ```
 
@@ -63,8 +61,10 @@ Text:
 - That part of the image is sent for analysis and appropriate results are returned.
 
 Gesture Recognition
-<img src="https://user-images.githubusercontent.com/15925203/56093163-0b0b3c80-5e93-11e9-9a50-58115d8f0429.jpg" alt="Input Image" style="width:400px;"/>
+<img src="https://user-images.githubusercontent.com/15925203/56093163-0b0b3c80-5e93-11e9-9a50-58115d8f0429.jpg" alt="Input Image" style="width:400px;"/>  
 
+- Because this is a geture controlled system, the system will give you information according to the part of te picture that you circle.
+  
 ## How we built it
 
 #### Technologies used
