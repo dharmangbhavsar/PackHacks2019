@@ -1,7 +1,7 @@
 # iBuddy (PackHacks 2019)
 
 ## Video Demo Link
-- [Demo Link](https://drive.google.com/file/d/1A1Jrb0NLTFacsE9MPR5eai-qg9Sr-qf8/view?usp=sharing)  
+- [Demo Link](https://drive.google.com/file/d/1A1Jrb0NLTFacsE9MPR5eai-qg9Sr-qf8/view?usp=sharing)   (Notice- Demo took during the Hack-a-thon. Misses some points but gives a quick intro and working of the system.)
 
 ## What it does
 
