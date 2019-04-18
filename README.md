@@ -33,10 +33,6 @@ Description: A man looking at camera
 Emotion: disgusted
 Text: 
 ----------------------
-Description: A man brushing his teeth in front of a mirror posing for the camera
-Emotion: 
-Text: 
-----------------------
 ```
 
 #### Tactile Interface for OCR
